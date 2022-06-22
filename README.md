@@ -1,6 +1,6 @@
 # Flask-Elastic-Beanstalk
 
-This repo was originally forked from noahgift, .elasticbeanstalk directory has been deleted and replace it with `eb init`.
+This repo was originally forked from noahgift/Flask-Elastic-Beanstalk, .elasticbeanstalk directory has been deleted and replace it with `eb init`.
 Also change the `buildspec.yml` file `eb deploy` to your app name.
 
 ![eb-deploy](https://user-images.githubusercontent.com/58792/106804626-a3a81900-6633-11eb-9cf6-54c24af6827f.png)
